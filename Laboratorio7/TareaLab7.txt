@@ -1,5 +1,0 @@
-Realizar 
-1 Procedimiento tipo script
-5 procedimientos almacenados donde consulten sus reportes y filtren con parametros 1 tipo script
-1 funcion
-	
